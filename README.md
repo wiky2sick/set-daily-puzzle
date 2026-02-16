@@ -39,3 +39,6 @@ npm run dev
 This uses `concurrently` to run:
 - FastAPI (uvicorn) on :8000
 - Vite dev server on :5173
+
+## License & Disclaimer
+All source code is available under the MIT License. We are not affiliated with Set Enterprises, Inc., or the SET® card game.
